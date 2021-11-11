@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shared Preferences</string>
+    <string name="email">Ingrese su email</string>
+    <string name="boton_ejecutar">Guardar y salir</string>
+    <string name="et_nombre">Escriba el nombre a buscar</string>
+    <string name="et_datos">Datos de contacto</string>
+    <string name="btn_guardar_contacto">Guardar en la agenda</string>
+    <string name="btn_recuperar_contacto">Recuperar</string>
+</resources>
